@@ -1,2 +1,2 @@
-# cat-photo-app
-Learning HTML by building a cat photo app!
+# cat-photo-app!
+Learning the most common HTML tags by building my own cat photo app.
